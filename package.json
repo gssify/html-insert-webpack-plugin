@@ -1,0 +1,24 @@
+{
+  "name": "html-insert-webpack-plugin",
+  "version": "1.0.0",
+  "description": "Inject script and style to html by custome rules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gssify/html-insert-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "htmlWebpackPlugin",
+    "htmlInsertWebpackPlugin"
+  ],
+  "author": "gssify@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gssify/html-insert-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/gssify/html-insert-webpack-plugin#readme"
+}
