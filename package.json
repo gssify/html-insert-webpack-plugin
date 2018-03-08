@@ -1,6 +1,6 @@
 {
   "name": "html-insert-webpack-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Inject script and style to html by custome rules",
   "main": "index.js",
   "scripts": {

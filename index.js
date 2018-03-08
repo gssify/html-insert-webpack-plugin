@@ -2,8 +2,8 @@
 
 function HtmlInsertWebpackPlugin (options = {}) {
   const defaults = {
-    script: '<!--webpack_script_placeholder-->',
-    style: '<!--webpack_style_placeholder-->'
+    script: '{# webpack_script_placeholder #}',
+    style: '{# webpack_style_placeholder #}'
   }
   this.options = Object.assign({}, defaults, options)
 }
